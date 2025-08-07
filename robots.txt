@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://niumi.com.br/sitemap.xml

@@ -1,0 +1,32 @@
+[Thu Jul 17 16:15:39 2025] PHP 8.1.2-1ubuntu2.22 Development Server (http://0.0.0.0:8000) started
+[Thu Jul 17 16:15:49 2025] 127.0.0.1:43864 Accepted
+[Thu Jul 17 16:15:49 2025] 127.0.0.1:43864 [200]: HEAD /
+[Thu Jul 17 16:15:49 2025] 127.0.0.1:43864 Closing
+[Thu Jul 17 16:15:55 2025] 127.0.0.1:35730 Accepted
+[Thu Jul 17 16:15:55 2025] 127.0.0.1:35742 Accepted
+[Thu Jul 17 16:15:55 2025] 127.0.0.1:35730 [200]: GET /
+[Thu Jul 17 16:15:55 2025] 127.0.0.1:35730 Closing
+[Thu Jul 17 16:15:55 2025] 127.0.0.1:35742 [404]: GET /favicon.ico - No such file or directory
+[Thu Jul 17 16:15:55 2025] 127.0.0.1:35742 Closing
+[Thu Jul 17 16:16:43 2025] 127.0.0.1:59366 Accepted
+[Thu Jul 17 16:16:43 2025] 127.0.0.1:59368 Accepted
+[Thu Jul 17 16:16:43 2025] 127.0.0.1:59366 [200]: GET /
+[Thu Jul 17 16:16:43 2025] 127.0.0.1:59366 Closing
+[Thu Jul 17 16:16:59 2025] 127.0.0.1:38492 Accepted
+[Thu Jul 17 16:16:59 2025] 127.0.0.1:59368 [200]: GET /
+[Thu Jul 17 16:16:59 2025] 127.0.0.1:59368 Closing
+[Thu Jul 17 16:16:59 2025] 127.0.0.1:38502 Accepted
+[Thu Jul 17 16:16:59 2025] 127.0.0.1:38510 Accepted
+[Thu Jul 17 16:16:59 2025] 127.0.0.1:38492 [404]: GET /assets/images/produtos/python-course.jpg - No such file or directory
+[Thu Jul 17 16:16:59 2025] 127.0.0.1:38492 Closing
+[Thu Jul 17 16:16:59 2025] 127.0.0.1:38502 [404]: GET /assets/images/produtos/chatbot-ai.jpg - No such file or directory
+[Thu Jul 17 16:16:59 2025] 127.0.0.1:38502 Closing
+[Thu Jul 17 16:16:59 2025] 127.0.0.1:38510 [404]: GET /assets/images/produtos/ebook-marketing.jpg - No such file or directory
+[Thu Jul 17 16:16:59 2025] 127.0.0.1:38510 Closing
+[Thu Jul 17 16:17:32 2025] 127.0.0.1:47780 Accepted
+[Thu Jul 17 16:17:43 2025] 127.0.0.1:33166 Accepted
+[Thu Jul 17 16:17:43 2025] 127.0.0.1:47780 [200]: GET /sobre.php
+[Thu Jul 17 16:17:43 2025] 127.0.0.1:47780 Closing
+[Thu Jul 17 16:17:53 2025] 127.0.0.1:47560 Accepted
+[Thu Jul 17 16:17:53 2025] 127.0.0.1:33166 [200]: GET /busca.php
+[Thu Jul 17 16:17:53 2025] 127.0.0.1:33166 Closing
